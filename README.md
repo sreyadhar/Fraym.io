@@ -1,5 +1,5 @@
 # Fraym.io
-Fraym.io~Mini_Data_Case_Part_1 :
+Fraym.io~Mini_Data_Case_Part_1 : Plotly and Folium plots could be visible in the below link:
 https://colab.research.google.com/drive/18XSsC8d9n1_FqsC2FyKXGXurjobAjE10
 
 # Interpretation of the Models
