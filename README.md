@@ -1,5 +1,5 @@
 # Fraym.io
-Fraym.io~Mini_Data_Case_Part_1 
+Fraym.io~Mini_Data_Case_Part_1 :
 Kindly open the below notebook in google colab to view the plots in folium and plotly:
 https://colab.research.google.com/github/sreyadhar/Fraym.io/blob/main/Fraym_io_Part1_Dhar.ipynb
 
