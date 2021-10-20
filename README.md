@@ -1,7 +1,7 @@
 # Fraym.io
 Fraym.io~Mini_Data_Case_Part_1 :
 Kindly open the below notebook in google colab to view the plots in folium and plotly:
-https://colab.research.google.com/github/sreyadhar/Fraym.io/blob/main/Fraym_io_Part1_Dhar.ipynb
+https://colab.research.google.com/drive/1ReMhiJdfrMEK7mciCkRPhwjDzvSL8K47?usp=sharing
 
 
 # Interpretation of the Models
