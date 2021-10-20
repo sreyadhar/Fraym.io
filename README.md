@@ -1,6 +1,6 @@
 # Fraym.io
 Fraym.io~Mini_Data_Case_Part_1 :
-
+https://colab.research.google.com/drive/18XSsC8d9n1_FqsC2FyKXGXurjobAjE10
 
 # Interpretation of the Models
 
