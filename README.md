@@ -1,5 +1,7 @@
 # Fraym.io
-Fraym.io~Mini_Data_Case_Part_1 : Plotly and Folium plots could be visible in the below link:
+Fraym.io~Mini_Data_Case_Part_1 : Please feel to reach out to me at sreyadha@buffalo.edu if the notebook file does not load properly; I can email you the notebook.
+
+All the plots including plots from Plotly and Folium could be visible in the below link:
 https://colab.research.google.com/drive/18XSsC8d9n1_FqsC2FyKXGXurjobAjE10
 
 # Interpretation of the Models
