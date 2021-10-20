@@ -1,6 +1,6 @@
 # Fraym.io
 Fraym.io~Mini_Data_Case_Part_1 :
-Kindly open the below notebook in google colab to view the plots in folium and plotly:
+Kindly open the below notebook in google colab to view the plots in folium and plotly (it might request for access):
 https://colab.research.google.com/drive/1ReMhiJdfrMEK7mciCkRPhwjDzvSL8K47?usp=sharing
 
 
