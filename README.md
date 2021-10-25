@@ -4,6 +4,8 @@ Fraym.io~Mini_Data_Case_Part_1 : Please feel free to reach out to me at sreyadha
 All the plots including plots from Plotly and Folium could be visible at the below link:
 https://colab.research.google.com/drive/18XSsC8d9n1_FqsC2FyKXGXurjobAjE10
 
+->> Follow up Q&A from the Data Scientist Team has been added in `Fraym.io_Q&A_Dhar.pdf` file.
+
 # Interpretation of the Models
 
 
@@ -11,6 +13,5 @@ The current dataset contains more than 500 locations in  Nigeria to predict the 
 
 Based on the current analysis to predict median expenditure, tree-based models outperformed regression analysis to minimize the test set's generalization error. **If I had to choose one model for prediction, I would go for XGBoost with the best hyper-parameters because once the model is hyper tuned, its the most favorable for forecasts. We might need to compromise on execution time, though.**
 
-->> Follow up Q&A from the Data Scientist Team has been added in `Fraym.io_Q&A_Dhar.pdf` file.
 
 
