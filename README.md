@@ -1,4 +1,4 @@
-Spatial Data Aanlysis::
+Spatial Data Aanlysis :
 
 All the plots including plots from Plotly and Folium could be visible at the below link:
 https://colab.research.google.com/drive/18XSsC8d9n1_FqsC2FyKXGXurjobAjE10
