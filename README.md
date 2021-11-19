@@ -3,7 +3,7 @@ Spatial Data Aanlysis::
 All the plots including plots from Plotly and Folium could be visible at the below link:
 https://colab.research.google.com/drive/18XSsC8d9n1_FqsC2FyKXGXurjobAjE10
 
-->> Follow up Q&A from the Data Scientist Team has been added in `Fraym.io_Q&A_Dhar.pdf` file.
+->> Follow up Q&A from the Data Scientist Team has been added in `Q&A_Session.pdf` file.
 
 # Interpretation of the Models
 
